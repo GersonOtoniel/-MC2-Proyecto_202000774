@@ -9,8 +9,6 @@ $PROJECT ROOT
 │   # Calculo de caminos
 ├── Grafo.py
 │   
-├── _pycache_
-│   # Documentacion
 └── README.md
 
 ```
